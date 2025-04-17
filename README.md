@@ -95,4 +95,4 @@ Repeat the same for the Client SDK.
 
 ### Client SDK
 - **Purpose:** Provides client applications (typically running in an iframe) with a developer-friendly API to interact with the host application.
-- **Key Features:** Query/mutation API inspired by React Query, automatic state management (data, status, isLoading), and seamless integration with the Core SDK.
+- **Key Features:** Query/mutation API inspired by React Query, automatic state management (data, status, isLoading), and seamless integration with the Core SDK.   
